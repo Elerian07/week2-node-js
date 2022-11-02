@@ -1,0 +1,16 @@
+/*Assignment 2 : 
+using Express
+**CRUD operations:
+* Create two arrays 
+user array
+do this api on it 
+1- GetAllUser
+2- AddUser
+3- Get all user reversed
+
+Post array
+do this api on it 
+1- GetAllPosts
+2- AddPost
+3- Get all Posts reversed*/
+
